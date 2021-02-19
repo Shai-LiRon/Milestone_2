@@ -10,4 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-#Milestone
+##### The first project which I considered was "Social Connectedness in the Class of 2024." I think some of the pros were it's survey questions that it asked, it's method of gathering data, for example by distributing the survey using social media to get as much reach as possible, also I liked the section on analyzing satisfaction as it was most clear. On the other hand, some cons include some of the graphics which were not visible or clear to unstand - for example the social web, which was very interesting to look at but kept glitching and was difficult to understand, the same goes for analyzing connectedness which was really interesting to look at but also harder to comprehend the message.
+##### The second project which I looked at was "Covid-19 Impact on Minorites and Mental Health Disorders". I think this is a very important subject, the cons is that it would have been nice if there was an introduction to the project to informs us what the goal of the project was, I think the current vs 2008 graphic was very interesting but not presented in the best way - it was difficult to see the connections between the covid impact and the mental health aftermath in the graphic. For pros, I found the graphs on the latin America covid count pretty interesting, which allowed to compare two countries in the same region, it would have been interesting to see how the comparison of number of covid cases corresponds to number of mental health issues that occur in the specific region.
+
